@@ -1,0 +1,22 @@
+# Theme metadata
+name = "andreson"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#ff2962"
+
+# Menu
+menu_primary = "#bbdefb"
+menu_text = "#000406"
+menu_text_active = "#c629ff"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(187, 222, 251)"
+home_section_even = "rgb(211, 211, 211)"
+
+[dark]
+  link = "#7FFFD4"
+  link_hover = "#FFD700"

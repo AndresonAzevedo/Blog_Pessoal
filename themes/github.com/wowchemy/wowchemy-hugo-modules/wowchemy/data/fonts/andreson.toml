@@ -1,0 +1,11 @@
+# Font style metadata
+name = "andreson"
+
+# Optional Google font URL
+google_fonts = "family=Fredericka the Great:wght@400;700&family=Roboto+Mono&family=Lobster:wght@400;700"
+
+# Font families
+heading_font = "Fredericka the Great"
+body_font = "Lobster"
+nav_font = "Lobster"
+mono_font = "Roboto Mono"
