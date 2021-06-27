@@ -11,9 +11,9 @@ education:
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Modelagem Estatística
+- Linguagens Computacionais
+- 
 organizations:
 - name: CPFL ENERGIA
   url: https://www.cpfl.com.br/

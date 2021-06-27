@@ -1,12 +1,12 @@
 ---
-date: "2019-07-12"
+date: "2021-06-27"
 diagram: true
 highlight: true
 image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
   placement: 3
 math: true
-title: Writing technical content in Academic
+title: Escrita Técnica em um conteúdo acadêmico
 ---
 
 Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
@@ -306,4 +306,4 @@ renders as
 {{< icon name="python" pack="fab" >}} Python  
 {{< icon name="r-project" pack="fab" >}} R
 
-### Did you find this page helpful? Consider sharing it 🙌
+### Você achou esta página útil ? Considere Compartilhar 🙌
