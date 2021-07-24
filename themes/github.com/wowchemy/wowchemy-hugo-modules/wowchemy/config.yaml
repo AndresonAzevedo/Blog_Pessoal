@@ -40,6 +40,6 @@ module:
 params:
   theme: minimal
   font: native
-  date_format: 'Jan 2, 2006'
+  date_format: '2 Jan, 2006'
   time_format: '3:04 PM'
   address_format: en-us

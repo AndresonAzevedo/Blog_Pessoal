@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title:  # Website name
 baseurl: 'https://andresonazevedo.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© Copyright Andreson Azevedo 2021. Todos os direitos reservados.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

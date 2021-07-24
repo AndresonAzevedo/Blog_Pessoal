@@ -40,7 +40,7 @@ contact_links:
  - icon: linkedin
    icon_pack: fab fa-linkedin-in
    name: andreson-azevedo
-   link: 'link: https://www.linkedin.com/in/andreson-azevedo/'
+   link: 'https://www.linkedin.com/in/andreson-azevedo/'
  - icon: github
    icon_pack: fab fa-github
    name: AndresonAzevedo
@@ -75,8 +75,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Monday, 02 Jan 2006'
-time_format: '3:04 PM'
+date_format: 'Monday, 02 Jan 2006' #'sábado, 24 Julho 2021' #'Monday, 02 Jan 2006'
+time_format: '3:04 PM' #'3:04 PM'
 address_format: pt-br
 
 # Site features
