@@ -5,9 +5,9 @@
     <link>https://andresonazevedo.netlify.app/omitidos/</link>
       <atom:link href="https://andresonazevedo.netlify.app/omitidos/index.xml" rel="self" type="application/rss+xml" />
     <description>Omitidos</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-us</language><copyright>© Copyright Andreson Azevedo 2021. Todos os direitos reservados.</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://andresonazevedo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://andresonazevedo.netlify.app/media/icon_hub8f7bc17bc004c94699adf50c30c6a4b_148586_512x512_fill_lanczos_center_2.png</url>
       <title>Omitidos</title>
       <link>https://andresonazevedo.netlify.app/omitidos/</link>
     </image>
@@ -132,6 +132,58 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://andresonazevedo.netlify.app/omitidos/talks/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://andresonazevedo.netlify.app/omitidos/artigos_omitidos/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://andresonazevedo.netlify.app/omitidos/artigos_omitidos/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://andresonazevedo.netlify.app/omitidos/artigos_omitidos/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://andresonazevedo.netlify.app/omitidos/artigos_omitidos/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://andresonazevedo.netlify.app/omitidos/artigos_omitidos/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://andresonazevedo.netlify.app/omitidos/artigos_omitidos/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -24,11 +24,14 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Estatística
-- description: 10%
+- description: 40%
   icon: fab fa-python
   icon_pack: fab
   name: Python
-
+- description: 50%
+  icon: fas fa-database
+  icon_pack: fas
+  name: Sql
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
 #  icon_pack = "emoji"

@@ -5,7 +5,7 @@
     <link>https://andresonazevedo.netlify.app/author/andreson-almeida-azevedo/</link>
       <atom:link href="https://andresonazevedo.netlify.app/author/andreson-almeida-azevedo/index.xml" rel="self" type="application/rss+xml" />
     <description>Andreson Almeida Azevedo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-us</language><copyright>© Copyright Andreson Azevedo 2021. Todos os direitos reservados.</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andresonazevedo.netlify.app/author/andreson-almeida-azevedo/avatar_huc5835b743aec18b92e4b23c238caec1b_4361683_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Andreson Almeida Azevedo</title>
@@ -70,10 +70,23 @@
     </item>
     
     <item>
+      <title>Regression models to dependence for exceedance</title>
+      <link>https://andresonazevedo.netlify.app/publication/artigo_iniciacao/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://andresonazevedo.netlify.app/publication/artigo_iniciacao/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Clique no botão &lt;em&gt;Citação&lt;/em&gt; acima, para ter acesso aos dados de citação para seu software de gerenciamento de referência.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
-      <link>https://andresonazevedo.netlify.app/publication/preprint/</link>
+      <link>https://andresonazevedo.netlify.app/omitidos/artigos_omitidos/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://andresonazevedo.netlify.app/publication/preprint/</guid>
+      <guid>https://andresonazevedo.netlify.app/omitidos/artigos_omitidos/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -129,9 +142,9 @@ date: 2019-09-01
     
     <item>
       <title>An example journal article</title>
-      <link>https://andresonazevedo.netlify.app/publication/journal-article/</link>
+      <link>https://andresonazevedo.netlify.app/omitidos/artigos_omitidos/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://andresonazevedo.netlify.app/publication/journal-article/</guid>
+      <guid>https://andresonazevedo.netlify.app/omitidos/artigos_omitidos/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -148,9 +161,9 @@ date: 2019-09-01
     
     <item>
       <title>An example conference paper</title>
-      <link>https://andresonazevedo.netlify.app/publication/conference-paper/</link>
+      <link>https://andresonazevedo.netlify.app/omitidos/artigos_omitidos/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://andresonazevedo.netlify.app/publication/conference-paper/</guid>
+      <guid>https://andresonazevedo.netlify.app/omitidos/artigos_omitidos/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

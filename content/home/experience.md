@@ -22,13 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Analista de Estratégia
+    company: Méliuz S.A
+    company_url: ''
+    company_logo: meliuz
+    location: Belo Horizonte - MG
+    date_start: '2021-09-10'
+    date_end: ''
+    description: |2-
+        Responsabilidades:
+        * Coleta de dados
+        * Criação de Dashboards no google data studio e metabase
+        * Planejamento e acompanhamento de testes AB
+        * Desenvolvimento de técnicas de segmentação
+
   - title: Cientista de Dados
     company: CPFL Energia
     company_url: ''
     company_logo: cpflenergia
     location: Campinas - SP
     date_start: '2020-02-10'
-    date_end: ''
+    date_end: '2021-08-01'
     description: |2-
         Responsabilidades:
         * Coleta

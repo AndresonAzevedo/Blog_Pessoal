@@ -2,9 +2,9 @@
 bio: Meus Interesses de Pesquisa incluem inferência frequentista e bayesiana, Teoria dos valores Extremos e Modelos de Regressão.
 education:
   courses:
-  - course: Mestrando em Estatística
+  - course: Mestre em Estatística
     institution: Universidade Estadual de Campinas (UNICAMP)
-    year: (andamento)
+    year: 2022
   - course: Bacharel em Estatística
     institution: Universidade Federal do Piauí (UFPI)
     year: 2018
@@ -15,9 +15,9 @@ interests:
 - Linguagens Computacionais
 - 
 organizations:
-- name: CPFL ENERGIA
-  url: https://www.cpfl.com.br/
-role: Cientista de Dados
+- name: MÉLIUZ S.A
+  url: https://www.meliuz.com.br/
+role: Analista de Estratégia
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,6 +43,6 @@ title: Andreson Almeida Azevedo
 
 # **OI, Eu sou Andreson!**
 
-Sou Cientista de Dados na CPFL Energia e Mestrando de Estatística na Universidade Estadual de Campinas. Meus interesses de pesquisa incluem inferência frequentista e bayesiana, Teoria dos valores Extremos e Modelos de Regressão.
+Sou Analista de Estratégia na Méliuz S.A e Mestre em Estatística pela Universidade Estadual de Campinas. Meus interesses de pesquisa incluem inferência frequentista e bayesiana, Teoria dos valores Extremos e Modelos de Regressão.
 
-{{< icon name="download" pack="fas" >}} Baixar meu {{< staticref "uploads/Curriculo Andreson.pdf" "newtab" >}}resumo{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Baixar meu {{< staticref "uploads/Curriculo Andreson A. Azevedo.pdf" "newtab" >}}resumo{{< /staticref >}}.

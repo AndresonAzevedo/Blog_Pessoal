@@ -5,62 +5,23 @@
     <link>https://andresonazevedo.netlify.app/publication/</link>
       <atom:link href="https://andresonazevedo.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publicações</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-us</language><copyright>© Copyright Andreson Azevedo 2021. Todos os direitos reservados.</copyright><lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://andresonazevedo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://andresonazevedo.netlify.app/media/icon_hub8f7bc17bc004c94699adf50c30c6a4b_148586_512x512_fill_lanczos_center_2.png</url>
       <title>Publicações</title>
       <link>https://andresonazevedo.netlify.app/publication/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://andresonazevedo.netlify.app/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://andresonazevedo.netlify.app/publication/preprint/</guid>
+      <title>Regression models to dependence for exceedance</title>
+      <link>https://andresonazevedo.netlify.app/publication/artigo_iniciacao/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://andresonazevedo.netlify.app/publication/artigo_iniciacao/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+    Clique no botão &lt;em&gt;Citação&lt;/em&gt; acima, para ter acesso aos dados de citação para seu software de gerenciamento de referência.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://andresonazevedo.netlify.app/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://andresonazevedo.netlify.app/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://andresonazevedo.netlify.app/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://andresonazevedo.netlify.app/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,18 +5,31 @@
     <link>https://andresonazevedo.netlify.app/publication-type/2/</link>
       <atom:link href="https://andresonazevedo.netlify.app/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-us</language><copyright>© Copyright Andreson Azevedo 2021. Todos os direitos reservados.</copyright><lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://andresonazevedo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://andresonazevedo.netlify.app/media/icon_hub8f7bc17bc004c94699adf50c30c6a4b_148586_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://andresonazevedo.netlify.app/publication-type/2/</link>
     </image>
     
     <item>
+      <title>Regression models to dependence for exceedance</title>
+      <link>https://andresonazevedo.netlify.app/publication/artigo_iniciacao/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://andresonazevedo.netlify.app/publication/artigo_iniciacao/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Clique no botão &lt;em&gt;Citação&lt;/em&gt; acima, para ter acesso aos dados de citação para seu software de gerenciamento de referência.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An example journal article</title>
-      <link>https://andresonazevedo.netlify.app/publication/journal-article/</link>
+      <link>https://andresonazevedo.netlify.app/omitidos/artigos_omitidos/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://andresonazevedo.netlify.app/publication/journal-article/</guid>
+      <guid>https://andresonazevedo.netlify.app/omitidos/artigos_omitidos/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
