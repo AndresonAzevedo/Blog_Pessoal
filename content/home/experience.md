@@ -23,13 +23,26 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Cientista de Dados
+    company: FORTBRASIL ADMINISTRADORA DE CARTOES DE CREDITO S/A
+    company_url: ''
+    company_logo: fortbrasil
+    location: Fortaleza - CE
+    date_start: '2022-08-16'
+    date_end: ''
+    description: |2-
+        Responsabilidades:
+        * Desenvolvimento e implementação de modelos estatísticos visando o aumento sustentável do consumo dos clientes
+        * Desenvolvimento de modelos e estrátegias em busca dos melhores métodos de seleção de novos clientes
+        * Acompanhamento da perfomance e da estabilidade dos modelos implementados
+
   - title: Analista de Estratégia
     company: Méliuz S.A
     company_url: ''
     company_logo: meliuz
     location: Belo Horizonte - MG
     date_start: '2021-09-10'
-    date_end: ''
+    date_end: '2022-08-01'
     description: |2-
         Responsabilidades:
         * Coleta de dados

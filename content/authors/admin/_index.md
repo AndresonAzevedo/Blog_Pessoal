@@ -13,11 +13,11 @@ highlight_name: false
 interests:
 - Modelagem Estatística
 - Linguagens Computacionais
-- 
+- Aprendizado de máquina
 organizations:
-- name: MÉLIUZ S.A
-  url: https://www.meliuz.com.br/
-role: Analista de Estratégia
+- name: FORTBRASIL ADMINISTRADORA DE CARTOES DE CREDITO S/A
+  url: https://www.fortbrasil.com.br/
+role: Cientista de Dados
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,6 +43,6 @@ title: Andreson Almeida Azevedo
 
 # **OI, Eu sou Andreson!**
 
-Sou Analista de Estratégia na Méliuz S.A e Mestre em Estatística pela Universidade Estadual de Campinas. Meus interesses de pesquisa incluem inferência frequentista e bayesiana, Teoria dos valores Extremos e Modelos de Regressão.
+Sou Cientista de Dados na Fortbrasil e Mestre em Estatística pela Universidade Estadual de Campinas. Meus interesses de pesquisa incluem inferência frequentista e bayesiana, Teoria dos valores Extremos e Modelos de Regressão.
 
 {{< icon name="download" pack="fas" >}} Baixar meu {{< staticref "uploads/Curriculo Andreson A. Azevedo.pdf" "newtab" >}}resumo{{< /staticref >}}.

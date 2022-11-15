@@ -15,6 +15,7 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+
 feature:
 - description: 80%
   icon: r-project
@@ -32,6 +33,11 @@ feature:
   icon: fas fa-database
   icon_pack: fas
   name: Sql
+- description: 20%
+  icon: powerbi-icon
+  icon_pack: custom
+  name: Power BI
+ 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
 #  icon_pack = "emoji"
